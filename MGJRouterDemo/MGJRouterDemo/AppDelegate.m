@@ -25,6 +25,7 @@
     UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:vc];
     self.window.rootViewController = navigationController;
 
+    
     return YES;
 }
 
